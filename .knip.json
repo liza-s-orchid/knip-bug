@@ -1,0 +1,7 @@
+{
+  "ignore": [
+  ],
+  "ignoreDependencies": [
+  ],
+  "entry": ["index.ts"]
+}
